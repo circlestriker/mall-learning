@@ -15,6 +15,10 @@ Date: 2019-08-04 15:31:57
 
 SET FOREIGN_KEY_CHECKS=0;
 
+create database mall_tiny;
+
+use mall_tiny;
+
 -- ----------------------------
 -- Table structure for pms_brand
 -- ----------------------------
